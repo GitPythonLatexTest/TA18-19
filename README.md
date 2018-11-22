@@ -1,4 +1,4 @@
-#Git, Python, and LaTeX Online Test
+# Git, Python, and LaTeX Online Test
 1. Total time is 60 minutes
 2. Assessment Format:
 - [Git] Resolve Conflict: 50 Points
