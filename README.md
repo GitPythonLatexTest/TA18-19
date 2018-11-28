@@ -11,6 +11,7 @@
 3. The test will be held online, at 7 PM on Monday-Thursday, one student/day**.
 
 *Using GitBash is a must.
+
 **Please contact Resti for confirmation, maximum D-1
 
 ---
