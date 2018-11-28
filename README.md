@@ -8,10 +8,10 @@
 - [LaTeX] A brief explanation with a cross-reference to Formula: 25 Points
 - [LaTeX] Table: 25 Points
 - [LaTeX] A brief explanation with a cross-reference to Table: 25 Points
-3. The test will be held online, at 7 PM on Monday-Thursday, one student/day*.
+3. The test will be held online, at 7 PM on Monday-Thursday, one student/day**.
 
-* Using GitBash is a must.
-** Please contact Resti for confirmation, maximum D-1
+*Using GitBash is a must.
+**Please contact Resti for confirmation, maximum D-1
 
 ---
 **What will you need:**
