@@ -13,6 +13,6 @@ with open('data.csv','r') as faisalcsvfile:
 faisal.plot(x,y, label='Loaded from file!')
 faisal.xlabel('Jenis Barang')
 faisal.ylabel('Jumlah Barang')
-faisal.title('Interesting Graph\nCheck it out')
+faisal.title('Graph Purchase Order')
 faisal.legend()
 faisal.show()
