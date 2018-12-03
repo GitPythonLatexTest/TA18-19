@@ -1,18 +1,18 @@
-import matplotlib.pyplot as faisal
+import matplotlib.pyplot as amran
 import csv
 
 x = []
 y = []
 
-with open('data.csv','r') as faisalcsvfile:
-    plots = csv.reader(faisalcsvfile, delimiter=',')
+with open('DPOS.csv','r') as csvfile:
+    plots = csv.reader(csvfile, delimiter=',')
     for row in plots:
         x.append(str(row[0]))
         y.append(int(row[1]))
 
-faisal.plot(x,y, label='Loaded from file!')
-faisal.xlabel('Jenis Barang')
-faisal.ylabel('Jumlah Barang')
-faisal.title('Graph Purchase Order')
-faisal.legend()
-faisal.show()
+amran.plot(x,y, label='Loaded from file!')
+amran.xlabel('Tahun')
+amran.ylabel('Cost')
+amran.title('Procurment')
+amran.legend()
+amran.show()
