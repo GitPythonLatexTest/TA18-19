@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {A}Chapter Heading}{1}
+\contentsline {section}{\numberline {A.1}Section Heading}{1}
+\contentsline {subsection}{\numberline {A.1.1}Subsection Heading}{1}
+\contentsline {subsubsection}{\numberline {A.1.1.1}Subsubsection Heading}{1}
+\contentsline {section}{\numberline {A.2}M. Amran Hakim Siregar / 1154106 / D4TI4B}{3}
+\contentsline {section}{\numberline {A.3}Faisal Syarifuddin 1154104 D4TI4B}{3}
+\contentsline {section}{\numberline {A.4}Maulyanda 1154008 D4TI3A}{3}
+\contentsline {section}{\numberline {A.5}cahya kurniawan 1154038 d4ti4d}{4}
+\contentsline {section}{\numberline {A.6}Muhammad Nur Ikhsan 1154087 D4TI3D}{5}
+\contentsline {section}{\numberline {A.7}Luqman Nurfajri 1154054 D4TI4A}{5}
+\contentsline {section}{\numberline {A.8}Faisal Syarifuddin 1154104 D4TI4B}{6}
+\contentsline {section}{\numberline {A.9}Value of Fitness}{6}
+\contentsline {section}{\numberline {A.10}Find the probability}{6}
+\contentsline {section}{\numberline {A.11}Maulyanda 1154008 D4TI3A}{6}
+\contentsline {subsection}{\numberline {A.11.1}RANSAC Algorithm}{6}
+\contentsline {section}{\numberline {A.12}cahya kurniawan 1154038 d4ti4d}{6}
+\contentsline {section}{\numberline {A.13}Muhamad Nur Ikhsan 1154087 D4TI3D}{7}
+\contentsline {section}{\numberline {A.14}Luqman Nurfajri 1154054 D4TI4A}{7}
+\contentsline {chapter}{Glossary}{9}
+\contentsline {paragraph}{glossary term}{9}
+\contentsline {paragraph}{glossary term}{9}
+\contentsline {paragraph}{glossary term}{9}
+\contentsline {paragraph}{glossary term}{9}
+\contentsline {paragraph}{glossary term}{9}
+\contentsline {chapter}{Solutions}{11}

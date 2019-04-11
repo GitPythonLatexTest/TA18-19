@@ -1,26 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.31)  6 FEB 2019 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.3.18)  18 MAR 2019 19:28
 entering extended mode
 **./book.tex
 (book.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 (svmono.cls
 Document Class: svmono 2009/12/17 v5.5 
 Springer Verlag global LaTeX document class for monographs
 Class Springer-SVMono Info: extra/valid Springer sub-package 
 (Springer-SVMono)           not found in option list - using "global" style.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -28,7 +29,7 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \svparindent=\dimen103
 \betweenumberspace=\dimen104
 \headlineindent=\dimen105
-\c@chapter=\count88
+\c@chapter=\count87
 \mottowidth=\dimen106
 \svitemindent=\dimen107
 \verbatimindent=\dimen108
@@ -55,44 +56,42 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 842.
 \tocsubparanum=\dimen118
 \foot@parindent=\dimen119
 \spthmsep=\dimen120
-\c@theorem=\count89
-\c@case=\count90
-\c@conjecture=\count91
-\c@corollary=\count92
-\c@definition=\count93
-\c@example=\count94
-\c@exercise=\count95
-\c@lemma=\count96
-\c@note=\count97
-\c@problem=\count98
-\c@property=\count99
-\c@proposition=\count100
-\c@question=\count101
-\c@solution=\count102
-\c@remark=\count103
-\c@prob=\count104
+\c@theorem=\count88
+\c@case=\count89
+\c@conjecture=\count90
+\c@corollary=\count91
+\c@definition=\count92
+\c@example=\count93
+\c@exercise=\count94
+\c@lemma=\count95
+\c@note=\count96
+\c@problem=\count97
+\c@property=\count98
+\c@proposition=\count99
+\c@question=\count100
+\c@solution=\count101
+\c@remark=\count102
+\c@prob=\count103
 \instindent=\dimen121
 \figgap=\dimen122
-\bildb@x=\box27
+\bildb@x=\box26
 \figcapgap=\dimen123
 \tabcapgap=\dimen124
-\c@merk=\count105
+\c@merk=\count104
 LaTeX Info: Redefining \abstract on input line 1894.
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.c
-fg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.
-def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\framed.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\framed\framed.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip43
 \fb@frw=\dimen125
@@ -100,7 +99,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen127
 \FrameSep=\dimen128
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathptmx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -135,33 +134,37 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) ("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)) ("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.st
-y"
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/type1cm\type1cm.sty"
-Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
-atched RF)
-) ("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+
+! LaTeX Error: File `type1cm.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphic
-s.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -169,29 +172,30 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen129
 \Gin@req@width=\dimen130
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
-Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
-\c@tracingmulticols=\count106
-\mult@box=\box28
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count105
+\mult@box=\box27
 \multicol@leftmargin=\dimen131
-\c@unbalance=\count107
-\c@collectmore=\count108
-\doublecol@number=\count109
-\multicoltolerance=\count110
-\multicolpretolerance=\count111
+\c@unbalance=\count106
+\c@collectmore=\count107
+\doublecol@number=\count108
+\multicoltolerance=\count109
+\multicolpretolerance=\count110
 \full@width=\dimen132
 \page@free=\dimen133
 \premulticols=\dimen134
 \postmulticols=\dimen135
 \multicolsep=\skip44
 \multicolbaselineskip=\skip45
-\partial@page=\box29
-\last@line=\box30
+\partial@page=\box28
+\last@line=\box29
 \maxbalancingoverflow=\dimen136
-\mult@rightbox=\box31
-\mult@grightbox=\box32
-\mult@gfirstbox=\box33
-\mult@firstbox=\box34
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
 \@tempa=\box37
@@ -208,37 +212,111 @@ Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
-\@tempa=\box51
-\c@columnbadness=\count112
-\c@finalcolumnbadness=\count113
+\c@columnbadness=\count111
+\c@finalcolumnbadness=\count112
 \last@try=\dimen137
 \multicolovershoot=\dimen138
 \multicolundershoot=\dimen139
-\mult@nat@firstbox=\box52
-\colbreak@box=\box53
-\mc@col@check@num=\count114
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count113
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\footmisc.st
-y"
-Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks15
-\footnotemargin=\dimen140
-\c@pp@next@reset=\count115
-Package footmisc Info: Declaring symbol style bringhurst on input line 855.
-Package footmisc Info: Declaring symbol style chicago on input line 863.
-Package footmisc Info: Declaring symbol style wiley on input line 872.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 
-Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
-.
-)
+! LaTeX Error: File `footmisc.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `bottom' for package `footmisc'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+? 
 \@indexfile=\write3
 \openout3 = `book.idx'.
 
-
 Writing index file book.idx
-No file book.aux.
+(book.aux (Contents/dedic.aux) (Contents/foreword.aux) (Contents/preface.aux)
+(Contents/acknow.aux) (Contents/acronym.aux) (Contents/part.aux)
+(Contents/appendix.aux
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 <
+     <<<<<< HEAD
+? 
+
+LaTeX Warning: Label `introA' multiply defined.
+
+
+LaTeX Warning: Label `sec:A1' multiply defined.
+
+
+LaTeX Warning: Label `sec:A2' multiply defined.
+
+
+LaTeX Warning: Label `eq:A01' multiply defined.
+
+
+LaTeX Warning: Label `fig:A1' multiply defined.
+
+) (Contents/Chapter1.aux
+
+LaTeX Warning: Label `table2' multiply defined.
+
+)
+Runaway definition?
+-> \setcounter {page}{6} \setcounter {equation}{2} ======= \@writefile \ETC.
+! File ended while scanning definition of \cp@Contents/Chapter1.
+<inserted text> 
+                }
+l.9 \@input{Contents/Chapter1.aux}
+                                  
+? 
+(Contents/Chapter2.aux
+
+LaTeX Warning: Label `eq:1' multiply defined.
+
+)
+Runaway definition?
+-> \setcounter {page}{8} ======= \@writefile {toc}{\contentsline {sec\ETC.
+! File ended while scanning definition of \cp@Contents/Chapter2.
+<inserted text> 
+                }
+l.10 \@input{Contents/Chapter2.aux}
+                                   
+? 
+(Contents/glossary.aux)
+Runaway definition?
+-> \setcounter {page}{10} ======= \@setckpt {Contents/glossary}{ \setcounter \E
+TC.
+! File ended while scanning definition of \cp@Contents/glossary.
+<inserted text> 
+                }
+l.11 \@input{Contents/glossary.aux}
+                                   
+? 
+(Contents/solutions.aux)
+Runaway definition?
+-> \setcounter {page}{12} ======= \@setckpt {Contents/solutions}{ \setcounter \
+ETC.
+! File ended while scanning definition of \cp@Contents/solutions.
+<inserted text> 
+                }
+l.12 \@input{Contents/solutions.aux}
+                                    
+? 
+)
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -254,68 +332,48 @@ LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 38.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mkii
-"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
-\scratchdimen=\dimen141
-\scratchbox=\box54
-\nofMPsegments=\count117
-\nofMParguments=\count118
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count119
-\MPscratchDim=\dimen142
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
-\everyMPtoPDFconversion=\toks17
-)
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-ba
-se.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefinek
-eys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmd
-s.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty
-"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -329,17 +387,27 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\big@size=\dimen143
- [1
+\big@size=\dimen140
 
-{C:/Users/dwi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
+Overfull \hbox (75.7547pt too wide) in paragraph at lines 2--39
+[]\OT1/cmr/m/n/10 <<<<<<< HEAD              =======              >>>>>>> 551b45
+c4f5bf27cbd069057e112d077f207bfe93
+ []
 
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 2--39
+
+ []
+
+[1{C:/Users/Luqman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+] [2]
 \openout2 = `Contents/dedic.aux'.
 
- (Contents/dedic.tex [5
+
+(Contents/dedic.tex [5
+
+
 
 
 
@@ -380,31 +448,62 @@ Package mathptmx Warning: There are no bold math fonts on input line 9.
 
 
 ]
-No file book.toc.
+(book.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 1.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 1.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 1.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 1.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+)
 \tf@toc=\write4
 \openout4 = `book.toc'.
 
-[13]
+ [13]
 \openout2 = `Contents/acronym.aux'.
 
- (Contents/acronym.tex [14
+
+(Contents/acronym.tex [14
 
 
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 12.
 
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-))
-[15] [16
+)) [15] [16
 
 
 
 ]
 \openout2 = `Contents/part.aux'.
 
- (Contents/part.tex)
+
+(Contents/part.tex)
 \openout2 = `Contents/appendix.aux'.
 
  (Contents/appendix.tex
@@ -412,46 +511,14 @@ Appendix A.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 LaTeX Font Info:    Calculating math sizes for size <16> on input line 11.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
-.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd"
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
-.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd"
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
-.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd"
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
-.
-("C:\Users\dwi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd"
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.84009> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.6001> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 29.
-
-LaTeX Warning: Reference `sec:A1' on page 1 undefined on input line 31.
-
-
-LaTeX Warning: Reference `sec:A2' on page 1 undefined on input line 41.
-
 [1
 
 
@@ -459,11 +526,13 @@ LaTeX Warning: Reference `sec:A2' on page 1 undefined on input line 41.
 
 
 ]
-<Figures/figure.pdf, id=56, 139.52126pt x 195.73125pt>
+<Figures/figure.pdf, id=56, pagebox=cropbox, 139.52126pt x 195.73125pt>
 File: Figures/figure.pdf Graphic file (type pdf)
 <use Figures/figure.pdf>
-Package pdftex.def Info: Figures/figure.pdf  used on input line 58.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+Package pdftex.def Info: Figures/figure.pdf  used on input line 58. on input li
+ne 58.
+Package pdftex.def Info: Requested size: 90.68773pt x 127.22379pt on input line
+ 58.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 70.
@@ -490,26 +559,10 @@ l.13 ...}m_{1}}{\sum_{i}^{k} = 1 n_{i}c_{i}}\bigg+
 
 LaTeX Warning: Reference `table' on page 3 undefined on input line 38.
 
-
-LaTeX Warning: Reference `table1' on page 3 undefined on input line 56.
-
 [3
 
 
-]
-
-LaTeX Warning: Reference `tabel1' on page 4 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:1' on page 4 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:2' on page 4 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:3' on page 4 undefined on input line 59.
-
-[4]
+] [4]
 
 ! LaTeX Error: \begin{document} ended by \end{partbacktext}.
 
@@ -526,20 +579,10 @@ l.79 \end{partbacktext}
 l.79 \end{partbacktext}
                        
 ? 
-! Undefined control sequence.
-l.100 \Bar
-          {x}=frac{X_1+X_2+X_3+...+X_n}{n}
-? 
 ) [5]
 \openout2 = `Contents/Chapter2.aux'.
 
  (Contents/Chapter2.tex
-
-LaTeX Warning: Reference `fitness' on page 6 undefined on input line 18.
-
-
-LaTeX Warning: Reference `ptobabilty' on page 6 undefined on input line 26.
-
 
 LaTeX Warning: Reference `formula' on page 6 undefined on input line 38.
 
@@ -548,45 +591,40 @@ LaTeX Warning: Reference `formula' on page 6 undefined on input line 38.
 
 ]
 ! Undefined control sequence.
-l.77 \Centering
-               
+l.76 \Bar
+         {x}=frac{X_1+X_2+X_3+...+X_n}{n}
 ? 
-)
-Runaway argument?
-{tabular]{lcr} \hline Date & Day & Air Temperature \\ \hline 1 & Wedn\ETC.
-! File ended while scanning use of \begin.
-<inserted text> 
-                \par 
-l.61 \include{Contents/Chapter2}
-                                
-? 
+) [7] [8
+
+
+
+]
 \openout2 = `Contents/glossary.aux'.
 
-(Contents/glossary.tex)
+ (Contents/glossary.tex) [9
+
+
+
+]
 \openout2 = `Contents/solutions.aux'.
 
- (Contents/solutions.tex
-
-LaTeX Warning: Reference `intro' on page 7 undefined on input line 3.
+ (Contents/solutions.tex [10
 
 
-LaTeX Warning: Reference `prob1' on page 7 undefined on input line 5.
 
 
-LaTeX Warning: Reference `prob2' on page 7 undefined on input line 10.
+]
 
-)
+LaTeX Warning: Reference `intro' on page 11 undefined on input line 3.
+
+
+LaTeX Warning: Reference `prob1' on page 11 undefined on input line 5.
+
+
+LaTeX Warning: Reference `prob2' on page 11 undefined on input line 10.
+
+) [11]
 No file book.ind.
-
-! LaTeX Error: \begin{table} on input line 75 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 \end{document}
-                   
-? 
 (book.aux (Contents/dedic.aux) (Contents/foreword.aux) (Contents/preface.aux)
 (Contents/acknow.aux) (Contents/acronym.aux) (Contents/part.aux)
 (Contents/appendix.aux) (Contents/Chapter1.aux) (Contents/Chapter2.aux)
@@ -595,13 +633,30 @@ l.70 \end{document}
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-! You can't use `\end' in internal vertical mode.
-\enddocument ... \endgroup \deadcycles \z@ \@@end 
-                                                  
-l.70 \end{document}
-                   
-? 
+ ) 
+Here is how much of TeX's memory you used:
+ 2203 strings out of 493312
+ 31215 string characters out of 3138896
+ 100986 words of memory out of 3000000
+ 5610 multiletter control sequences out of 15000+200000
+ 57003 words of font info for 110 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,25p,335b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/
+ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on book.pdf (25 pages, 141205 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-! LaTeX Error: \
